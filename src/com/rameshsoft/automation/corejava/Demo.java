@@ -8,6 +8,7 @@ abstract class DemoTest
 	static public void hello() {
 		System.out.println("hello()");
 		System.out.println(practHrs+"  "+res);
+		System.out.println("java");
 	}
 }
 
