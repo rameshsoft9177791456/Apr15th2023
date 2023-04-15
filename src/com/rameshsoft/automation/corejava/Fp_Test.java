@@ -9,6 +9,7 @@ class Fp_Men
 	public void clothes() {
 		//250 lines of code
 		System.out.println("clothes()");
+		System.out.println("hardwork");
 	}
 	public void logout() {
 		//20 lines of code
